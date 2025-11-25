@@ -68,8 +68,8 @@ To write a C program to find the smallest among three numbers using Structure.
 ```
 /*
 C program to find the smallest among three numbers using Structure.
-Developed by: AASHIKA PARVEEN M R
-RegisterNumber:  212223060002
+Developed by: Nareshkumaran S
+RegisterNumber:  212222060159
 */
 #include <stdio.h>
 
